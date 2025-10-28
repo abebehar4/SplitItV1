@@ -1,1 +1,1 @@
-# SplitItV1
+# SplitIt
